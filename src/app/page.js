@@ -1,6 +1,6 @@
 import styles from '../../styles/Home.module.css';
 
-export const runtime = 'experimental-edge';
+export const runtime = 'edge';
 
 export default function Home() {
   return (
